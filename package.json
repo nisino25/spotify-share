@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "gsap": "^3.12.2",
+    "interactjs": "^1.10.17",
     "vue": "^3.2.13"
   },
   "devDependencies": {
