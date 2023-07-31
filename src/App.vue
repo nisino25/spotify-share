@@ -242,7 +242,7 @@ export default {
 </script>
 
 <style>
-body {
+html {
   overflow: hidden;
 }
 #app {
@@ -252,6 +252,8 @@ body {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+
+  overflow: hidden;
 }
 
 .dark-area{
